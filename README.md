@@ -85,6 +85,8 @@ Manage your expectations. We are here to help you think through the problem and 
 
 Sometimes, you may not get a simple, ready-made solution. The work is yours to solve, and you will need to develop problem-solving skills throughout this process.
 
+Use appropriate communication channels, such as email, Moodle, or scheduled sessions, when asking for help with your thesis or code-related questions. Avoid informal approaches, such as asking about code during lunch breaks or in passing. If we have scheduled a meeting, make sure to be punctual and come prepared with specific questions to make the most of the session.
+
 While we can help guide you through challenges, **we are not magical mind-reading models that can solve every problem on demand**. 
 
 
